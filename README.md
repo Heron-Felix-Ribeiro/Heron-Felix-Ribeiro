@@ -2,14 +2,10 @@
 * Formado em Análise e Desenvolvimento de Sistemas na faculdaldade Senac Criciúma.
 * Participação FullStack no projeto GED APAE
 
-## Linguagens 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/439022/typescript.svg" width ="40" height="40"> 
-
 <div>
   <a href="https://github.com/Heron-Felix-Ribeiro">
-  <img loading="lazy" height="180em" src="https:/stats-zeta-tawny.vercel.app/api/top-langs/?username=Heron-Felix-Ribeiro&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://stats-zeta-tawny.vercel.app
-/api?username=Heron-Felix-Ribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://stats-zeta-tawny.vercel.app/api/top-langs/?username=Heron-Felix-Ribeiro&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://stats-zeta-tawny.vercel.app/api?username=Heron-Felix-Ribeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Ferramentas e Tecnologias 
