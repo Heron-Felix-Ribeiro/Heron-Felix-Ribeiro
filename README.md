@@ -16,4 +16,4 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://www.svgrepo.com/show/452192/docker.svg" width="40" height="40"> <img loading="lazy" src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="40" height="40"> <img loading="lazy" src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" width="40" height="40">
 
 ## Contatos
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/heron-felix-ribeiro-548031292/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/heron-felix-ribeiro-548031292/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
